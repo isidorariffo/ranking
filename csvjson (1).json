@@ -1,0 +1,275 @@
+[
+  {
+    "profes": "Castro Meza, Ricardo",
+    "titulades": 1,
+    "guiades": 1,
+    "aprobacion": 100,
+    "nota": 70
+  },
+  {
+    "profes": "Silva Roquefort, Rebeca",
+    "titulades": 1,
+    "guiades": 1,
+    "aprobacion": 100,
+    "nota": 70
+  },
+  {
+    "profes": "Reyes León, Daniel",
+    "titulades": 4,
+    "guiades": 5,
+    "aprobacion": 80,
+    "nota": 55
+  },
+  {
+    "profes": "Abud Carrillo, Jenny",
+    "titulades": 10,
+    "guiades": 15,
+    "aprobacion": 67,
+    "nota": 45
+  },
+  {
+    "profes": "Castillo Espinoza, Eduardo",
+    "titulades": 14,
+    "guiades": 21,
+    "aprobacion": 67,
+    "nota": 45
+  },
+  {
+    "profes": "Lepe Muñoz, Juan Carlos",
+    "titulades": 2,
+    "guiades": 3,
+    "aprobacion": 67,
+    "nota": 45
+  },
+  {
+    "profes": "Tapia Reyes, Mauricio",
+    "titulades": 4,
+    "guiades": 6,
+    "aprobacion": 67,
+    "nota": 45
+  },
+  {
+    "profes": "Morales Mujica, María Paz",
+    "titulades": 6,
+    "guiades": 11,
+    "aprobacion": 55,
+    "nota": 38
+  },
+  {
+    "profes": "Cortez Orellana, Felipe",
+    "titulades": 9,
+    "guiades": 17,
+    "aprobacion": 53,
+    "nota": 36
+  },
+  {
+    "profes": "Ode Saleh, Verónica",
+    "titulades": 15,
+    "guiades": 29,
+    "aprobacion": 52,
+    "nota": 36
+  },
+  {
+    "profes": "Mora, Alfredo",
+    "titulades": 1,
+    "guiades": 2,
+    "aprobacion": 50,
+    "nota": 35
+  },
+  {
+    "profes": "Ruiz Balart, Macarena",
+    "titulades": 1,
+    "guiades": 2,
+    "aprobacion": 50,
+    "nota": 35
+  },
+  {
+    "profes": "Santibañez Boric, Mónica",
+    "titulades": 1,
+    "guiades": 2,
+    "aprobacion": 50,
+    "nota": 35
+  },
+  {
+    "profes": "Vico Sánchez, Mauricio",
+    "titulades": 2,
+    "guiades": 4,
+    "aprobacion": 50,
+    "nota": 35
+  },
+  {
+    "profes": "Young Araya, Mariana",
+    "titulades": 6,
+    "guiades": 12,
+    "aprobacion": 50,
+    "nota": 35
+  },
+  {
+    "profes": "Dueñas Santander, Rodrigo",
+    "titulades": 12,
+    "guiades": 26,
+    "aprobacion": 46,
+    "nota": 33
+  },
+  {
+    "profes": "Gatica Ramírez, Pamela",
+    "titulades": 6,
+    "guiades": 13,
+    "aprobacion": 46,
+    "nota": 33
+  },
+  {
+    "profes": "Pradenas Guentherodt, Gabriela",
+    "titulades": 3,
+    "guiades": 7,
+    "aprobacion": 43,
+    "nota": 32
+  },
+  {
+    "profes": "De la Sotta Lazzerini, Paola",
+    "titulades": 7,
+    "guiades": 17,
+    "aprobacion": 41,
+    "nota": 31
+  },
+  {
+    "profes": "Domínguez González, Pablo",
+    "titulades": 25,
+    "guiades": 62,
+    "aprobacion": 40,
+    "nota": 30
+  },
+  {
+    "profes": "Marín Pacheco, Antonio",
+    "titulades": 4,
+    "guiades": 10,
+    "aprobacion": 40,
+    "nota": 30
+  },
+  {
+    "profes": "Soto Calquín, Leonardo",
+    "titulades": 8,
+    "guiades": 21,
+    "aprobacion": 38,
+    "nota": 29
+  },
+  {
+    "profes": "Pagueguy Fenner, Sebastián",
+    "titulades": 5,
+    "guiades": 14,
+    "aprobacion": 36,
+    "nota": 28
+  },
+  {
+    "profes": "Jacob Dazarola, Rubén",
+    "titulades": 13,
+    "guiades": 37,
+    "aprobacion": 35,
+    "nota": 28
+  },
+  {
+    "profes": "Donoso Cisternas, Sergio",
+    "titulades": 7,
+    "guiades": 20,
+    "aprobacion": 35,
+    "nota": 28
+  },
+  {
+    "profes": "Gómez Moya, Cristián",
+    "titulades": 3,
+    "guiades": 9,
+    "aprobacion": 33,
+    "nota": 27
+  },
+  {
+    "profes": "Jove Avilés, Trinidad",
+    "titulades": 2,
+    "guiades": 6,
+    "aprobacion": 33,
+    "nota": 27
+  },
+  {
+    "profes": "Maldonado de la Fuente, Felix",
+    "titulades": 3,
+    "guiades": 9,
+    "aprobacion": 33,
+    "nota": 27
+  },
+  {
+    "profes": "Méndez Olivares, Iván",
+    "titulades": 2,
+    "guiades": 6,
+    "aprobacion": 33,
+    "nota": 27
+  },
+  {
+    "profes": "Stange Marcus, Hans",
+    "titulades": 1,
+    "guiades": 3,
+    "aprobacion": 33,
+    "nota": 27
+  },
+  {
+    "profes": "Nuñez Gutiérrez, Pablo",
+    "titulades": 4,
+    "guiades": 13,
+    "aprobacion": 31,
+    "nota": 26
+  },
+  {
+    "profes": "Osses Flores, Roberto",
+    "titulades": 7,
+    "guiades": 23,
+    "aprobacion": 30,
+    "nota": 25
+  },
+  {
+    "profes": "Zorzano Betancourt, Osvaldo",
+    "titulades": 3,
+    "guiades": 10,
+    "aprobacion": 30,
+    "nota": 25
+  },
+  {
+    "profes": "Wechsler Pizarro, Andrea",
+    "titulades": 11,
+    "guiades": 37,
+    "aprobacion": 30,
+    "nota": 25
+  },
+  {
+    "profes": "Benavides Bermúdez, Paola",
+    "titulades": 2,
+    "guiades": 7,
+    "aprobacion": 29,
+    "nota": 25
+  },
+  {
+    "profes": "Perelli Soto, Bruno",
+    "titulades": 2,
+    "guiades": 7,
+    "aprobacion": 29,
+    "nota": 25
+  },
+  {
+    "profes": "Perea Morales, René",
+    "titulades": 3,
+    "guiades": 11,
+    "aprobacion": 27,
+    "nota": 24
+  },
+  {
+    "profes": "Molina, Raúl",
+    "titulades": 1,
+    "guiades": 4,
+    "aprobacion": 25,
+    "nota": 23
+  },
+  {
+    "profes": "Lares López, Lorna",
+    "titulades": 4,
+    "guiades": 17,
+    "aprobacion": 24,
+    "nota": 22
+  }
+]
